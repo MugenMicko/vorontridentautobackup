@@ -3,13 +3,13 @@
 *./printer_data/gcodes/
 ## But not these files...
 !.gitignore
-!crowsnest/
-!klipper/
-!klippy-env/
-!moonraker-env/
-!moonraker/
-!kiauh/
-!klipper-led_effect/
-!mainsail/
-!printer_data/*
+!crowsnest/*.*
+!klipper/*.*
+!klippy-env/*.*
+!moonraker-env/*.**.*
+!moonraker/*.*
+!kiauh/*.*
+!klipper-led_effect/*.*
+!mainsail/*.*
+!printer_data/*.*
 
