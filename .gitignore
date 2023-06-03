@@ -1,6 +1,6 @@
 ## Ignore everything
 *
-printer_data/gcodes/
+*./printer_data/gcodes/
 ## But not these files...
 !.gitignore
 !crowsnest/
@@ -11,5 +11,5 @@ printer_data/gcodes/
 !kiauh/
 !klipper-led_effect/
 !mainsail/
-!printer_data/
+!printer_data/*
 
