@@ -12,4 +12,4 @@
 !klipper-led_effect/*.*
 !mainsail/*.*
 !**printer_data/
-
+!**klipper_config/
