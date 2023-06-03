@@ -1,0 +1,9 @@
+[tmc2209 extruder]
+uart_pin: PE1
+interpolate: false
+run_current: 0.67
+#hold_current: 0.6
+driver_TBL: 1
+driver_TOFF: 3
+driver_HEND: 9
+driver_HSTRT: 7
