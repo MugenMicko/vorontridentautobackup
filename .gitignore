@@ -11,5 +11,5 @@
 !kiauh/*.*
 !klipper-led_effect/*.*
 !mainsail/*.*
-!printer_data/*.*
+!**printer_data/
 
